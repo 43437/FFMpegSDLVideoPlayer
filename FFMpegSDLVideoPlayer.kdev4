@@ -1,0 +1,4 @@
+[Project]
+Name=FFMpegSDLVideoPlayer
+Manager=KDevCMakeManager
+VersionControl=kdevgit
